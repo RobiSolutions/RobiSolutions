@@ -14,11 +14,11 @@
     <td width="30%" align="center">
       <img src="https://img.shields.io/badge/XP-20%2B_LAT-111111?style=for-the-badge&logo=expedia&logoColor=2ecc71" />
       <br><br>
-      <img src="https://img.shields.io/badge/OBSZAR-HARDWARE_%2F_SOFTWARE-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" />
+      <img src="https://img.shields.io/badge/OBSZAR-FULL_STACK_IT-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" />
     </td>
     <td width="70%">
       <font size="4">
-        Ekspert z ponad 20-letnim doświadczeniem. Łączę świat fizycznego krzemu (zaawansowana diagnostyka Hardware/BGA) z nowoczesną infrastrukturą chmurową i automatyzacją procesów opartą na AI.
+        Ekspert IT z ponad 20-letnim stażem. Specjalizuję się w pełnym cyklu życia technologii: od fizycznej naprawy elektroniki, przez development aplikacji, aż po ich wdrażanie i administrację na własnej infrastrukturze serwerowej.
       </font>
     </td>
   </tr>
@@ -27,7 +27,32 @@
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> CORE_STACK [AKTYWNE_SYSTEMY]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> IT_DIAGNOSTICS [HARDWARE_&_SOFTWARE]</strong></font>
+</p>
+
+<ul>
+  <li>🛠️ <strong>HARDWARE:</strong> Zaawansowana diagnostyka i naprawa płyt głównych, lutowanie BGA/SMD, serwis sekcji zasilania VRM, programowanie kości BIOS/ME-Region.</li>
+  <li>💻 <strong>SOFTWARE:</strong> Naprawa systemowa, odzyskiwanie danych, optymalizacja OS, rozwiązywanie krytycznych błędów oprogramowania i konfliktów sprzętowych.</li>
+  <li>🔬 <strong>DIAGNOSTYKA:</strong> Kompleksowe testy obciążeniowe, wykrywanie mikropęknięć i wad ukrytych w architekturze PC/Laptop/Server.</li>
+</ul>
+
+<hr />
+
+<p align="left">
+  <font size="5" color="#2ecc71"><strong>> DEVOPS_&_ADMINISTRATION [INFRASTRUCTURE]</strong></font>
+</p>
+
+<ul>
+  <li>☁️ <strong>SELF-HOSTING:</strong> Pełna administracja własnymi serwerami VPS, konfiguracja bezpiecznych środowisk pod projekty komercyjne.</li>
+  <li>🚀 <strong>DOWPLOYMENT:</strong> Wdrażanie stron i aplikacji przy użyciu <strong>Coolify</strong> – alternatywy dla Heroku/Vercel na własnych zasobach.</li>
+  <li>📦 <strong>KONTENERYZACJA:</strong> Pełne wykorzystanie <strong>Docker & Docker Compose</strong> do izolacji usług i łatwego skalowania infrastruktury.</li>
+  <li>🛡️ <strong>SECURITY:</strong> Konfiguracja firewalli, certyfikatów SSL, bezpiecznych tuneli VPN oraz monitoringu usług 24/7.</li>
+</ul>
+
+<hr />
+
+<p align="left">
+  <font size="5" color="#2ecc71"><strong>> CORE_STACK [TECHNOLOGIE]</strong></font>
 </p>
 
 <p align="left">
@@ -42,18 +67,6 @@
   <img src="https://img.shields.io/badge/Coolify-080E2C.svg?style=for-the-badge&logo=vercel&logoColor=68E580" />
   <img src="https://img.shields.io/badge/FileBrowser-00ADD8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </p>
-
-<hr />
-
-<p align="left">
-  <font size="5" color="#2ecc71"><strong>> INFRASTRUKTURA_AI [SIEĆ_NEURONOWA]</strong></font>
-</p>
-
-<ul>
-  <li>🤖 <strong>AGENCI AI:</strong> Budowa autonomicznych agentów n8n (OpenAI / Modele lokalne).</li>
-  <li>🧠 <strong>SYSTEMY RAG:</strong> Inteligentne bazy wiedzy (Retrieval-Augmented Generation).</li>
-  <li>🛡️ <strong>LOKALNE LLM:</strong> Konteneryzacja i hostowanie Ollama/Docker (Prywatność Danych).</li>
-</ul>
 
 <hr />
 

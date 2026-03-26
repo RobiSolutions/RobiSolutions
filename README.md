@@ -1,22 +1,20 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/%5BSYSTEM_STATUS%5D-ONLINE-2ecc71?style=for-the-badge&logo=statuspage&logoColor=fff" alt="System Status" />
-  <img src="https://img.shields.io/badge/SER_NO-ROBISOLUTIONS--2026--X1-94a3b8?style=for-the-badge&logo=linux" alt="Serial Number" />
-</div>
-
-<hr />
-
-<div align="center">
-  <font size="6" color="#2ecc71"><strong>root@ROBISOLUTIONS.IT:~/$> WHOAMI</strong></font>
-</div>
-
 <br />
+
+<div align="center">
+  <img src="https://img.shields.io/badge/%5BSYSTEM_STATUS%5D-ONLINE-2ecc71?style=for-the-badge&logo=statuspage&logoColor=fff" />
+  <img src="https://img.shields.io/badge/SER_NO-ROBISOLUTIONS--2026--X1-94a3b8?style=for-the-badge&logo=linux" />
+</div>
+
+<p align="center">
+  <font size="6" color="#2ecc71"><strong>root@ROBISOLUTIONS.IT:~/$> WHOAMI</strong></font>
+</p>
 
 <table width="100%" border="0" cellpadding="10">
   <tr>
     <td width="30%" align="center">
-      <img src="https://img.shields.io/badge/XP-20%2B_YEARS-111111?style=for-the-badge&logo=expedia&logoColor=2ecc71" alt="Experience" />
+      <img src="https://img.shields.io/badge/XP-20%2B_YEARS-111111?style=for-the-badge&logo=expedia&logoColor=2ecc71" />
       <br><br>
-      <img src="https://img.shields.io/badge/FIELD-HARDWARE_%2F_SOFTWARE-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" alt="Field" />
+      <img src="https://img.shields.io/badge/FIELD-HARDWARE_%2F_SOFTWARE-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" />
     </td>
     <td width="70%">
       <font size="4">
@@ -33,15 +31,15 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Virt--Manager-E34F26.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virt-Manager" />
-  <img src="https://img.shields.io/badge/Coolify-080E2C.svg?style=for-the-badge&logo=vercel&logoColor=68E580" alt="Coolify" />
-  <img src="https://img.shields.io/badge/FileBrowser-00ADD8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="FileBrowser" />
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Virt--Manager-E34F26.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coolify-080E2C.svg?style=for-the-badge&logo=vercel&logoColor=68E580" />
+  <img src="https://img.shields.io/badge/FileBrowser-00ADD8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </p>
 
 <hr />
@@ -52,8 +50,8 @@
 
 <ul>
   <li>🤖 <strong>AI AGENTS:</strong> Autonomiczni agenci n8n (OpenAI / Local Models).</li>
-  <li>🧠 <strong>RAG SYSTEMS:</strong> Inteligentne bazy wiedzy oparte na Retrieval-Augmented Generation.</li>
-  <li>🛡️ <strong>LOCAL LLMs:</strong> Samowystarczalne modele Ollama w kontenerach Docker.</li>
+  <li>🧠 <strong>RAG SYSTEMS:</strong> Inteligentne bazy wiedzy (Retrieval-Augmented Generation).</li>
+  <li>🛡️ <strong>LOCAL LLMs:</strong> Modele Ollama w kontenerach Docker.</li>
 </ul>
 
 <hr />
@@ -84,8 +82,8 @@
 <hr />
 
 <p align="center">
-  🌐 <a href="https://robisolutionsit.com"><font color="#2ecc71"><strong>Portfolio</strong></font></a> | 
-  ✉️ <a href="https://robisolutionsit.com/#contact"><font color="#2ecc71"><strong>Contact</strong></font></a>
+  🌐 <a href="https://robisolutionsit.com"><font color="#2ecc71"><strong>Main Portfolio</strong></font></a> | 
+  ✉️ <a href="https://robisolutionsit.com/#contact"><font color="#2ecc71"><strong>Contact Terminal</strong></font></a>
 </p>
 
 <hr />

@@ -1,13 +1,9 @@
-<h1>[SYSTEM_STATUS: ONLINE]</h1>
-<h2>SER_NO: ROBISOLUTIONS-2026-X1</h2>
+<h1 align="left">[SYSTEM_STATUS: ONLINE]</h1>
+<h2 align="left">SER_NO: ROBISOLUTIONS-2026-X1</h2>
 
-<pre>
-  ____       _     _  ____       _       _   _                 
- |  _ \ ___  | |__ (_) ___  ___  | |_   _| |_(_) ___  _ __  ___ 
- | |_) / _ \ | '_ \| |/ __|/ _ \ | | | | | __| |/ _ \| '_ \/ __|
- |  _ < (_) | |_) | |\__ \ (_) || | |_| | |_| | (_) | | | \__ \
- |_| \_\___/|_.__/|_||___/\___/ |_|\__,_|\__|_|\___/|_| |_|___/
-</pre>
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&width=600&height=160&lines=  ____       _     _  ____       _       _   _+; |  _ \ ___  | |__ (_) ___  ___  | |_   _| |_(_) ___  _ __  ___ ; | |_) / _ \ | '_ \| |/ __|/ _ \ | | | | | __| |/ _ \| '_ \/ __|; |  _ < (_) | |_) | |\__ \ (_) || | |_| | |_| | (_) | | | \__ \; |_| \_\___/|_.__/|_||___/\___/ |_|\__,_|\__|_|\___/|_| |_|___/;" alt="ROBISOLUTIONS" />
+</p>
 
 <h3>> WHOAMI</h3>
 <ul>
@@ -17,14 +13,14 @@
   <li><strong>STATUS:</strong> Diagnosing system issues end-to-end.</li>
 </ul>
 
-<hr>
+<hr />
 
 <h3>> ACTIVE_PROJECTS</h3>
-<table>
+<table width="100%">
   <tr>
-    <th>Project</th>
-    <th>URL</th>
-    <th>Stack</th>
+    <th align="left">Project</th>
+    <th align="left">URL</th>
+    <th align="left">Stack</th>
   </tr>
   <tr>
     <td><strong>Apfel-Retter</strong></td>
@@ -43,7 +39,7 @@
   </tr>
 </table>
 
-<hr>
+<hr />
 
 <h3>> LINKS</h3>
 <p>
@@ -52,8 +48,8 @@
   🐙 <a href="https://github.com/RobiSolutions"><strong>GitHub Profile</strong></a>
 </p>
 
-<hr>
+<hr />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobiSolutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22d3ee&text_color=94a3b8" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobiSolutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ECC71&text_color=94a3b8" alt="GitHub Stats" />
 </p>

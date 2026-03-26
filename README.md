@@ -58,41 +58,25 @@
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> DIAGNOSTICS_LOG [SERVICES]</strong></font>
-</p>
-
-<ul>
-  <li>🛠️ <strong>HARDWARE:</strong> Precision BGA/SMD Soldering, VRM repairs, BIOS/ME-Region modding.</li>
-  <li>🌐 <strong>SOFTWARE:</strong> Full-Stack Development (Next.js/Node.js), scalable web architecture.</li>
-  <li>☁️ <strong>DEVOPS:</strong> Linux Server Management, KVM Virtualization, Self-hosted PaaS (Coolify).</li>
-</ul>
-
-<hr />
-
-<p align="left">
   <font size="5" color="#2ecc71"><strong>> ACTIVE_PROJECTS</strong></font>
 </p>
 
 <table width="100%">
   <tr>
     <th align="left">Project</th>
-    <th align="left">Description</th>
     <th align="left">Link</th>
   </tr>
   <tr>
     <td><strong>Apfel-Retter</strong></td>
-    <td>E-commerce & automated repair management.</td>
-    <td><a href="https://www.apfel-retter.de/"><font color="#2ecc71">View Site</font></a></td>
+    <td><a href="https://www.apfel-retter.de/"><font color="#2ecc71">apfel-retter.de</font></a></td>
   </tr>
   <tr>
     <td><strong>Qvertech</strong></td>
-    <td>IT Service infrastructure & rapid diagnostics.</td>
-    <td><a href="https://qvertech.eu/"><font color="#2ecc71">View Site</font></a></td>
+    <td><a href="https://qvertech.eu/"><font color="#2ecc71">qvertech.eu</font></a></td>
   </tr>
   <tr>
     <td><strong>Terminal</strong></td>
-    <td>Main portfolio at robisolutionsit.com</td>
-    <td><a href="https://robisolutionsit.com"><font color="#2ecc71">View Site</font></a></td>
+    <td><a href="https://robisolutionsit.com"><font color="#2ecc71">robisolutionsit.com</font></a></td>
   </tr>
 </table>
 
@@ -106,5 +90,5 @@
 <hr />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobiSolutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=94a3b8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobiSolutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=94a3b8" alt="GitHub Stats" />
 </div>

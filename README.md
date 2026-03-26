@@ -15,11 +15,11 @@
       <br><br>
       <img src="https://img.shields.io/badge/FIELD-HARDWARE_%2F_SOFTWARE-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" alt="Field" />
       <br><br>
-      <img src="https://img.shields.io/badge/FOCUS-AI__AGENTS-111111?style=for-the-badge&logo=openai&logoColor=2ecc71" alt="AI Focus" />
+      <img src="https://img.shields.io/badge/FOCUS-AI_AUTOMATION-111111?style=for-the-badge&logo=openai&logoColor=2ecc71" alt="AI Focus" />
     </td>
     <td width="70%">
       <font size="4">
-        Diagnosing system issues end-to-end. From un-solderable BGA defects to automated n8n workflows. I bridge the gap between physical silicon and cloud infrastructure.
+        Ekspert z ponad 20-letnim stażem. Łączę świat fizycznego krzemu (zaawansowany serwis hardware/BGA) z nowoczesną infrastrukturą chmurową i automatyzacją procesów biznesowych opartą na sztucznej inteligencji.
       </font>
     </td>
   </tr>
@@ -28,37 +28,51 @@
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> CORE_STACK [ACTIVE]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> CORE_STACK [ACTIVE_SYSTEMS]</strong></font>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <br>
   <img src="https://img.shields.io/badge/n8n-FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Stripe-5433FF.svg?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe" />
+  <br>
   <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Virt--Manager-E34F26.svg?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virt-Manager" />
+  <img src="https://img.shields.io/badge/Coolify-080E2C.svg?style=for-the-badge&logo=vercel&logoColor=68E580" alt="Coolify" />
+  <img src="https://img.shields.io/badge/FileBrowser-00ADD8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="FileBrowser" />
 </p>
 
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> SERVICES [DIAGNOSTICS]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> AI_INFRASTRUCTURE [NEURAL_NETWORK]</strong></font>
 </p>
 
 <ul>
-  <li>🛠️ <strong>HARDWARE:</strong> BGA/SMD Soldering, VRM Repair, BIOS/ME-Region Modding, Data Recovery (PC/GPU/Server).</li>
-  <li>🚀 <strong>SOFTWARE:</strong> Full-Stack Development (Next.js/Node.js), DevOps, CI/CD, Containerization.</li>
-  <li>🤖 <strong>AUTOMATION:</strong> Complex n8n Workflows, RAG-Powered AI Agents, CRM/Payment Integration.</li>
+  <li>🤖 <strong>AI AGENTS:</strong> Budowa autonomicznych agentów n8n zintegrowanych z OpenAI i lokalnymi modelami.</li>
+  <li>🧠 <strong>RAG SYSTEMS:</strong> Wdrażanie systemów Retrieval-Augmented Generation dla inteligentnych baz wiedzy.</li>
+  <li>🛡️ <strong>LOCAL LLMs:</strong> Konteneryzacja i hostowanie modeli (Ollama/Docker) dla zachowania pełnej prywatności danych.</li>
+  <li>🔄 <strong>WORKFLOWS:</strong> Automatyczne triage biletów, analiza sentymentu i wsparcie klienta napędzane przez AI.</li>
 </ul>
 
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> PROVEN_WORK [LOG]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> DIAGNOSTICS_LOG [SERVICES]</strong></font>
+</p>
+
+<ul>
+  <li>🛠️ <strong>HARDWARE:</strong> Precyzyjne lutowanie BGA/SMD, naprawa sekcji zasilania VRM, modyfikacje BIOS/ME-Region.</li>
+  <li>🌐 <strong>SOFTWARE:</strong> Full-Stack Development (Next.js/Node.js), projektowanie skalowalnych aplikacji webowych.</li>
+  <li>☁️ <strong>DEVOPS:</strong> Zarządzanie serwerami Linux, wirtualizacja (KVM/Virt-Manager), samowystarczalne platformy PaaS (Coolify).</li>
+</ul>
+
+<hr />
+
+<p align="left">
+  <font size="5" color="#2ecc71"><strong>> ACTIVE_PROJECTS</strong></font>
 </p>
 
 <table width="100%">
@@ -69,17 +83,17 @@
   </tr>
   <tr>
     <td><strong>Apfel-Retter</strong></td>
-    <td>E-commerce platform with automated repair workflows.</td>
+    <td>System e-commerce z automatyzacją napraw.</td>
     <td><a href="https://www.apfel-retter.de/"><font color="#2ecc71">apfel-retter.de</font></a></td>
   </tr>
   <tr>
     <td><strong>Qvertech</strong></td>
-    <td>IT Service infrastructure for rapid B2B diagnostics.</td>
+    <td>Infrastruktura usług IT dla biznesu.</td>
     <td><a href="https://qvertech.eu/"><font color="#2ecc71">qvertech.eu</font></a></td>
   </tr>
   <tr>
     <td><strong>Terminal</strong></td>
-    <td>My main portfolio with full services list.</td>
+    <td>Główne portfolio robisolutionsit.com</td>
     <td><a href="https://robisolutionsit.com"><font color="#2ecc71">robisolutionsit.com</font></a></td>
   </tr>
 </table>

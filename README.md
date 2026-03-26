@@ -1,7 +1,8 @@
+
 <br />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/%5BSYSTEM_STATUS%5D-ONLINE-2ecc71?style=for-the-badge&logo=statuspage&logoColor=fff" />
+  <img src="https://img.shields.io/badge/%5BSTATUS_SYSTEMU%5D-ONLINE-2ecc71?style=for-the-badge&logo=statuspage&logoColor=fff" />
   <img src="https://img.shields.io/badge/SER_NO-ROBISOLUTIONS--2026--X1-94a3b8?style=for-the-badge&logo=linux" />
 </div>
 
@@ -12,13 +13,13 @@
 <table width="100%" border="0" cellpadding="10">
   <tr>
     <td width="30%" align="center">
-      <img src="https://img.shields.io/badge/XP-20%2B_YEARS-111111?style=for-the-badge&logo=expedia&logoColor=2ecc71" />
+      <img src="https://img.shields.io/badge/XP-20%2B_LAT-111111?style=for-the-badge&logo=expedia&logoColor=2ecc71" />
       <br><br>
-      <img src="https://img.shields.io/badge/FIELD-HARDWARE_%2F_SOFTWARE-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" />
+      <img src="https://img.shields.io/badge/OBSZAR-HARDWARE_%2F_SOFTWARE-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" />
     </td>
     <td width="70%">
       <font size="4">
-        Expert with over 20 years of experience. I bridge the gap between physical silicon (Advanced BGA/Hardware diagnostics) and modern cloud infrastructure, powered by AI-driven automation.
+        Ekspert z ponad 20-letnim doświadczeniem. Łączę świat fizycznego krzemu (zaawansowana diagnostyka Hardware/BGA) z nowoczesną infrastrukturą chmurową i automatyzacją procesów opartą na AI.
       </font>
     </td>
   </tr>
@@ -27,7 +28,7 @@
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> CORE_STACK [ACTIVE_SYSTEMS]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> CORE_STACK [AKTYWNE_SYSTEMY]</strong></font>
 </p>
 
 <p align="left">
@@ -46,24 +47,36 @@
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> AI_INFRASTRUCTURE [NEURAL_NETWORK]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> INFRASTRUKTURA_AI [SIEĆ_NEURONOWA]</strong></font>
 </p>
 
 <ul>
-  <li>🤖 <strong>AI AGENTS:</strong> Building autonomous n8n agents integrated with OpenAI & Local Models.</li>
-  <li>🧠 <strong>RAG SYSTEMS:</strong> Implementing Retrieval-Augmented Generation for intelligent knowledge bases.</li>
-  <li>🛡️ <strong>LOCAL LLMs:</strong> Containerized deployment of Ollama/Docker for total data privacy.</li>
+  <li>🤖 <strong>AGENCI AI:</strong> Budowa autonomicznych agentów n8n zintegrowanych z OpenAI i modelami lokalnymi.</li>
+  <li>🧠 <strong>SYSTEMY RAG:</strong> Wdrażanie inteligentnych baz wiedzy (Retrieval-Augmented Generation).</li>
+  <li>🛡️ <strong>LOKALNE LLM:</strong> Konteneryzacja i hostowanie modeli Ollama/Docker dla pełnej prywatności danych.</li>
 </ul>
 
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> ACTIVE_PROJECTS</strong></font>
+  <font size="5" color="#2ecc71"><strong>> USŁUGI [DIAGNOSTYKA]</strong></font>
+</p>
+
+<ul>
+  <li>🛠️ <strong>HARDWARE:</strong> Precyzyjne lutowanie BGA/SMD, naprawa sekcji zasilania VRM, modyfikacje BIOS.</li>
+  <li>🌐 <strong>SOFTWARE:</strong> Full-Stack Development (Next.js/Node.js), skalowalna architektura webowa.</li>
+  <li>☁️ <strong>DEVOPS:</strong> Zarządzanie serwerami Linux, wirtualizacja KVM, własny PaaS (Coolify).</li>
+</ul>
+
+<hr />
+
+<p align="left">
+  <font size="5" color="#2ecc71"><strong>> AKTYWNE_PROJEKTY</strong></font>
 </p>
 
 <table width="100%">
   <tr>
-    <th align="left">Project</th>
+    <th align="left">Projekt</th>
     <th align="left">Link</th>
   </tr>
   <tr>
@@ -84,11 +97,5 @@
 
 <p align="center">
   🌐 <a href="https://robisolutionsit.com"><font color="#2ecc71"><strong>Portfolio</strong></font></a> | 
-  ✉️ <a href="https://robisolutionsit.com/#contact"><font color="#2ecc71"><strong>Contact</strong></font></a>
+  ✉️ <a href="https://robisolutionsit.com/#contact"><font color="#2ecc71"><strong>Kontakt</strong></font></a>
 </p>
-
-<hr />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobiSolutions&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2ecc71&text_color=94a3b8" alt="GitHub Stats" />
-</div>

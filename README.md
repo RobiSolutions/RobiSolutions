@@ -103,23 +103,39 @@
 
 <hr />
 
+<hr />
+
 <p align="center">
-  <font size="5" color="#2ecc71"><strong>> ESTABLISH_COMMUNICATION</strong></font>
+  <font size="5" color="#2ecc71"><strong>> ESTABLISH_COMMUNICATION [ALL_SYSTEMS_GO]</strong></font>
   <br><br>
   <a href="https://robisolutionsit.com">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=2ecc71" />
+    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=2ecc71" alt="Portfolio" />
   </a>
-  <a href="mailto:KONTAKT@ROBISOLUTIONSIT.COM">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.linkedin.com/in/TWOJ_PROFIL">
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://robisolutionsit.com/#contact">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://youtube.com/@TWOJ_KANAL">
+    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <br>
-  <a href="https://robisolutionsit.com/#contact">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://t.me/TWOJ_USERNAME">
+    <img src="https://img.shields.io/badge/TELEGRAM-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://robisolutionsit.com/#contact">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  <a href="https://wa.me/TWOJ_NUMER">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
+  <a href="https://instagram.com/TWOJ_INSTAGRAM">
+    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <br>
+  <a href="https://facebook.com/TWOJ_PROFIL">
+    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="mailto:KONTAKT@ROBISOLUTIONSIT.COM">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <font size="2" color="#94a3b8"><em>// Global presence initialized. Waiting for handshake...</em></font>
 </p>

@@ -1,4 +1,3 @@
-
 <br />
 
 <div align="center">
@@ -51,21 +50,9 @@
 </p>
 
 <ul>
-  <li>🤖 <strong>AGENCI AI:</strong> Budowa autonomicznych agentów n8n zintegrowanych z OpenAI i modelami lokalnymi.</li>
-  <li>🧠 <strong>SYSTEMY RAG:</strong> Wdrażanie inteligentnych baz wiedzy (Retrieval-Augmented Generation).</li>
-  <li>🛡️ <strong>LOKALNE LLM:</strong> Konteneryzacja i hostowanie modeli Ollama/Docker dla pełnej prywatności danych.</li>
-</ul>
-
-<hr />
-
-<p align="left">
-  <font size="5" color="#2ecc71"><strong>> USŁUGI [DIAGNOSTYKA]</strong></font>
-</p>
-
-<ul>
-  <li>🛠️ <strong>HARDWARE:</strong> Precyzyjne lutowanie BGA/SMD, naprawa sekcji zasilania VRM, modyfikacje BIOS.</li>
-  <li>🌐 <strong>SOFTWARE:</strong> Full-Stack Development (Next.js/Node.js), skalowalna architektura webowa.</li>
-  <li>☁️ <strong>DEVOPS:</strong> Zarządzanie serwerami Linux, wirtualizacja KVM, własny PaaS (Coolify).</li>
+  <li>🤖 <strong>AGENCI AI:</strong> Budowa autonomicznych agentów n8n (OpenAI / Modele lokalne).</li>
+  <li>🧠 <strong>SYSTEMY RAG:</strong> Inteligentne bazy wiedzy (Retrieval-Augmented Generation).</li>
+  <li>🛡️ <strong>LOKALNE LLM:</strong> Konteneryzacja i hostowanie Ollama/Docker (Prywatność Danych).</li>
 </ul>
 
 <hr />
@@ -94,7 +81,6 @@
 </table>
 
 <hr />
-<hr />
 
 <p align="center">
   <font size="5" color="#2ecc71"><strong>> ESTABLISH_COMMUNICATION</strong></font>
@@ -102,20 +88,17 @@
   <a href="https://robisolutionsit.com">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=2ecc71" />
   </a>
-  <a href="https://www.linkedin.com/in/TWOJ_PROFIL">
+  <a href="mailto:KONTAKT@ROBISOLUTIONSIT.COM">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://robisolutionsit.com/#contact">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://t.me/TWOJ_USERNAME">
-    <img src="https://img.shields.io/badge/Telegram-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
   <br>
-  <a href="https://wa.me/TWOJ_NUMER">
+  <a href="https://robisolutionsit.com/#contact">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a href="https://facebook.com/TWOJ_PROFIL">
+  <a href="https://robisolutionsit.com/#contact">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="mailto:TWOJ@EMAIL.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>

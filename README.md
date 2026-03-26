@@ -18,7 +18,7 @@
     </td>
     <td width="70%">
       <font size="4">
-        Ekspert IT z ponad 20-letnim stażem. Specjalizuję się w pełnym cyklu życia technologii: od fizycznej naprawy elektroniki, przez development aplikacji, aż po ich wdrażanie i administrację na własnej infrastrukturze serwerowej.
+        Ekspert IT z ponad 20-letnim stażem. Specjalizuję się w pełnym cyklu życia technologii: od fizycznej naprawy elektroniki (BGA), przez wirtualizację i konteneryzację, aż po budowę inteligentnych agentów AI.
       </font>
     </td>
   </tr>
@@ -27,26 +27,35 @@
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> IT_DIAGNOSTICS [HARDWARE_&_SOFTWARE]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> VIRTUALIZATION_&_DEPLOYMENT [INFRASTRUCTURE]</strong></font>
 </p>
 
 <ul>
-  <li>🛠️ <strong>HARDWARE:</strong> Zaawansowana diagnostyka i naprawa płyt głównych, lutowanie BGA/SMD, serwis sekcji zasilania VRM, programowanie kości BIOS/ME-Region.</li>
-  <li>💻 <strong>SOFTWARE:</strong> Naprawa systemowa, odzyskiwanie danych, optymalizacja OS, rozwiązywanie krytycznych błędów oprogramowania i konfliktów sprzętowych.</li>
-  <li>🔬 <strong>DIAGNOSTYKA:</strong> Kompleksowe testy obciążeniowe, wykrywanie mikropęknięć i wad ukrytych w architekturze PC/Laptop/Server.</li>
+  <li>🖥️ <strong>PROXMOX VE:</strong> Zarządzanie klastrami wirtualizacji, kontenery LXC, maszyny VM i zaawansowana administracja zasobami serwerowymi.</li>
+  <li>🚀 <strong>FOG SERVER:</strong> Masowe wdrażanie obrazów systemów operacyjnych (Cloning/PXE) oraz szybka replikacja stacji roboczych.</li>
+  <li>☁️ <strong>DEPLOYMENT:</strong> Automatyzacja wdrażania na <strong>Vercel</strong>, <strong>Hostinger</strong> oraz autorskie rozwiązania PaaS oparte na <strong>Coolify</strong>.</li>
 </ul>
 
 <hr />
 
 <p align="left">
-  <font size="5" color="#2ecc71"><strong>> DEVOPS_&_ADMINISTRATION [INFRASTRUCTURE]</strong></font>
+  <font size="5" color="#2ecc71"><strong>> IT_DIAGNOSTICS [HARDWARE_&_SOFTWARE]</strong></font>
 </p>
 
 <ul>
-  <li>☁️ <strong>SELF-HOSTING:</strong> Pełna administracja własnymi serwerami VPS, konfiguracja bezpiecznych środowisk pod projekty komercyjne.</li>
-  <li>🚀 <strong>DOWPLOYMENT:</strong> Wdrażanie stron i aplikacji przy użyciu <strong>Coolify</strong> – alternatywy dla Heroku/Vercel na własnych zasobach.</li>
-  <li>📦 <strong>KONTENERYZACJA:</strong> Pełne wykorzystanie <strong>Docker & Docker Compose</strong> do izolacji usług i łatwego skalowania infrastruktury.</li>
-  <li>🛡️ <strong>SECURITY:</strong> Konfiguracja firewalli, certyfikatów SSL, bezpiecznych tuneli VPN oraz monitoringu usług 24/7.</li>
+  <li>🛠️ <strong>HARDWARE:</strong> Zaawansowana naprawa płyt głównych, lutowanie BGA/SMD, serwis sekcji zasilania VRM, modyfikacje BIOS.</li>
+  <li>💻 <strong>SOFTWARE:</strong> Naprawa systemowa, odzyskiwanie danych, konteneryzacja usług w <strong>Dockerze</strong> i administracja <strong>Linux</strong>.</li>
+</ul>
+
+<hr />
+
+<p align="left">
+  <font size="5" color="#2ecc71"><strong>> INFRASTRUKTURA_AI [SIEĆ_NEURONOWA]</strong></font>
+</p>
+
+<ul>
+  <li>🤖 <strong>AGENCI AI:</strong> Projektowanie autonomicznych przepływów w <strong>n8n</strong> (OpenAI / Modele lokalne).</li>
+  <li>🧠 <strong>RAG & LLM:</strong> Wdrażanie inteligentnych baz wiedzy i hostowanie modeli <strong>Ollama</strong> w izolowanych środowiskach.</li>
 </ul>
 
 <hr />
@@ -56,16 +65,15 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-6DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37.svg?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Proxmox-E57020?style=for-the-badge&logo=proxmox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <br />
-  <img src="https://img.shields.io/badge/Virt--Manager-E34F26.svg?style=for-the-badge&logo=virtualbox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coolify-080E2C.svg?style=for-the-badge&logo=vercel&logoColor=68E580" />
-  <img src="https://img.shields.io/badge/FileBrowser-00ADD8.svg?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Coolify-080E2C?style=for-the-badge&logo=vercel&logoColor=68E580" />
 </p>
 
 <hr />

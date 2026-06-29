@@ -1,8 +1,12 @@
-<!-- Profile README → repo: RobiSolutions/README.md -->
+<!-- Profile README → repo: RobiSolutions/README.md  |  WERSJA DOCELOWA -->
 
-[![SYSTEM](https://img.shields.io/badge/SYSTEM-ONLINE-00d9ff?style=for-the-badge&logo=statuspage&logoColor=000)](https://robisolutionsit.com)
-[![SER_NO](https://img.shields.io/badge/SER__NO-ROBISOLUTIONS__2026__X1-ffb000?style=for-the-badge&logo=linux&logoColor=000)](https://robisolutionsit.com)
-[![XP](https://img.shields.io/badge/XP-20%2B__YEARS-00d9ff?style=for-the-badge&logo=expedia&logoColor=000)](https://robisolutionsit.com)
+<div align="center">
+
+[![HARDWARE](https://img.shields.io/badge/HARDWARE-BGA·SMD·VRM-00d9ff?style=for-the-badge&logo=hackthebox&logoColor=000)](#)
+[![DEVOPS](https://img.shields.io/badge/DEVOPS-PROXMOX·DOCKER·COOLIFY-ffb000?style=for-the-badge&logo=linux&logoColor=000)](#)
+[![AI](https://img.shields.io/badge/AI-N8N·RAG·LLM-00d9ff?style=for-the-badge&logo=openai&logoColor=000)](#)
+
+</div>
 
 ```
 root@robisolutionsit:~$ whoami
@@ -10,46 +14,81 @@ root@robisolutionsit:~$ whoami
 
 # Robert Senenko — Bridging Silicon & Software
 
-> Hardware engineer of 20+ years moving into DevOps, Linux infrastructure and AI automation.
-> From board-level diagnostics (BGA/SMD, VRM, GPU repair) to containerized, cloud-native systems.
-> The same fault-isolation discipline — now applied from the silicon up to the cluster.
+> **20+ years** of board-level electronics repair and micro-diagnostics — trained and certified
+> across **GIGABYTE, MSI and Acer (EMEA)** authorized service centers.
+> Now applying the same fault-isolation discipline from the circuit board up to the cluster:
+> DevOps, Linux infrastructure and AI automation.
+
+<div align="center">
+
+`Component-level repair` ⟶ `Linux & virtualization` ⟶ `DevOps & AI automation`
+
+</div>
 
 ---
 
-### `> INFRASTRUCTURE & DEPLOYMENT`
+### `> INFRASTRUCTURE & VIRTUALIZATION`
 
-- **Proxmox VE** — virtualization clusters, LXC containers, VM lifecycle, resource administration
-- **PXE / FOG** — mass OS imaging, rapid workstation replication
-- **Deployment** — Vercel, Hostinger, and self-hosted PaaS on Coolify (GitOps)
+- **Proxmox VE** — VM/LXC clusters, isolated test labs, snapshot/incremental backup policies
+- **Self-hosted PaaS** — Coolify on a Linux VPS as a control plane for Dockerized production apps (incl. n8n)
+- **FOG Project** — network-based OS imaging, cloning and mass workstation deployment
+- **Networking** — reverse proxy, DNS, VPN, firewall; Zabbix infrastructure monitoring
 
 ### `> DIAGNOSTICS [HARDWARE ↔ SOFTWARE]`
 
-- **Hardware** — motherboard repair, BGA/SMD soldering, VRM power sections, BIOS/EEPROM flashing
-- **Software** — system recovery, Docker service containerization, Linux administration & hardening
+- **Board-level repair** — laptop motherboards & GPUs, VRM power sections, micro-short localization on multilayer PCB
+- **Rework** — BGA / THT / SMT soldering, PCH/GPU/VRAM reballing, signal-trace reconstruction
+- **Instrumentation** — oscilloscope, thermal camera, lab PSU, logic probe; boardview & schematic analysis
+- **Firmware** — BIOS / KBC / SPI programming and modification
 
-### `> AI & AUTOMATION   // NEW`
+### `> AI & AUTOMATION   // focus`
 
-- **n8n agents** — autonomous, event-driven workflows (OpenAI / local models)
-- **RAG & local LLM** — private knowledge bases, self-hosted Ollama in isolated environments
-- **Content pipeline** — human-in-the-loop publishing system (Obsidian → agent → review → publish)
+- **n8n** — autonomous, event-driven workflows integrating internal systems and social channels
+- **RAG & local LLM** — private knowledge bases over technical docs and boardviews; self-hosted Ollama / LM Studio
+- **AI agents** — assistants for data and test-log analysis; human-in-the-loop content pipeline
+
+### `> FULL-STACK`
+
+- **Next.js** apps with Tailwind, shadcn/ui, Zod — deployed on Vercel (GitOps)
+- **Data** — PostgreSQL, Prisma, Supabase
+- **Integrations** — Stripe & PayPal payment systems
 
 ---
 
 ### `> CORE STACK`
 
+<!-- Infrastructure & virtualization -->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![Portainer](https://img.shields.io/badge/Portainer-13BEF9?style=for-the-badge&logo=portainer&logoColor=fff)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=fff)
+<br>
+<!-- Monitoring · security · storage -->
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=fff)
+![Wazuh](https://img.shields.io/badge/Wazuh-0050C8?style=for-the-badge&logo=wazuh&logoColor=fff)
+![QNAP](https://img.shields.io/badge/QNAP-0C4DA2?style=for-the-badge&logo=qnap&logoColor=fff)
+<br>
+<!-- Automation · web · data -->
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Coolify](https://img.shields.io/badge/Coolify-080E2C?style=for-the-badge&logo=coolify&logoColor=fff)
 ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
-![Coolify](https://img.shields.io/badge/Coolify-080E2C?style=for-the-badge&logo=vercel&logoColor=68E580)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=fff)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=000)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=fff)
+<br>
+<!-- AI -->
+![Claude](https://img.shields.io/badge/Claude-code·cowork·design-D97757?style=for-the-badge&logo=claude&logoColor=fff)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=fff)
+![LM Studio](https://img.shields.io/badge/LM_Studio-2A2A2A?style=for-the-badge&logo=lmstudio&logoColor=fff)
+![AnythingLLM](https://img.shields.io/badge/AnythingLLM-1A1A1A?style=for-the-badge&logoColor=fff)
 
 ---
 
-### `> FEATURED PROJECTS`
+### `> PROJECTS`
 
 **⚙️ Setup & Bootstrap**
-- [`ubuntu-bench-bootstrap`](https://github.com/RobiSolutions/ubuntu-bench-bootstrap) — bash scripts to provision a fresh Ubuntu dev/bench workstation (VS Code, dual-GitHub, KVM/QEMU, Docker)
+- [`ubuntu-bench-bootstrap`](https://github.com/RobiSolutions/ubuntu-bench-bootstrap) — bash provisioning for a fresh Ubuntu dev/bench workstation (VS Code, dual-GitHub, KVM/QEMU, Docker)
 
 **🧰 Diagnostic Toolkits**
 - [`diag-tool`](https://github.com/RobiSolutions/diag-tool) — branded multi-boot USB toolkit (Ventoy, custom GRUB2 theme, 8-category ISO taxonomy)
@@ -65,16 +104,29 @@ root@robisolutionsit:~$ whoami
 
 ---
 
+### `> LIVE`
+
+- [robisolutionsit.com](https://robisolutionsit.com) — portfolio & technical hub (Next.js)
+- [qvertech.eu](https://qvertech.eu/) — deployed project
+
+---
+
+<div align="center">
+
 ### `> CONNECT`
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://robisolutionsit.com)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=googlechrome&logoColor=00d9ff)](https://robisolutionsit.com)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/robert-senenko-it/)
-[![dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=fff)](https://dev.to/ROBISOLUTIONS_HANDLE)
+<!-- dev.to: podmień handle, gdy potwierdzisz konto -->
+[![dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=fff)](https://dev.to/)
+<!-- Facebook: podmień na realny URL Page i podlinkuj dopiero, gdy Page ma już treść -->
+[![Facebook](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=fff)](https://facebook.com/)
 
 `contact:`
+
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E1?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/RobiSolutionsIT)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/48502316393)
 
-```
-// presence initialized — waiting for handshake...
-```
+`// presence initialized — waiting for handshake...`
+
+</div>

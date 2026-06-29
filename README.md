@@ -1,138 +1,80 @@
-<br />
+<!-- Profile README → repo: RobiSolutions/README.md -->
 
-<div align="center">
-  <img src="https://img.shields.io/badge/%5BSTATUS_SYSTEMU%5D-ONLINE-2ecc71?style=for-the-badge&logo=statuspage&logoColor=fff" />
-  <img src="https://img.shields.io/badge/SER_NO-ROBISOLUTIONS--2026--X1-94a3b8?style=for-the-badge&logo=linux" />
-</div>
+[![SYSTEM](https://img.shields.io/badge/SYSTEM-ONLINE-00d9ff?style=for-the-badge&logo=statuspage&logoColor=000)](https://robisolutionsit.com)
+[![SER_NO](https://img.shields.io/badge/SER__NO-ROBISOLUTIONS__2026__X1-ffb000?style=for-the-badge&logo=linux&logoColor=000)](https://robisolutionsit.com)
+[![XP](https://img.shields.io/badge/XP-20%2B__YEARS-00d9ff?style=for-the-badge&logo=expedia&logoColor=000)](https://robisolutionsit.com)
 
-<p align="center">
-  <font size="6" color="#2ecc71"><strong>root@ROBISOLUTIONS.IT:~/$> WHOAMI</strong></font>
-</p>
+```
+root@robisolutionsit:~$ whoami
+```
 
-<table width="100%" border="0" cellpadding="10">
-  <tr>
-    <td width="30%" align="center">
-      <img src="https://img.shields.io/badge/XP-20%2B_LAT-111111?style=for-the-badge&logo=expedia&logoColor=2ecc71" />
-      <br><br>
-      <img src="https://img.shields.io/badge/OBSZAR-FULL_STACK_IT-111111?style=for-the-badge&logo=codestream&logoColor=2ecc71" />
-    </td>
-    <td width="70%">
-      <font size="4">
-        Ekspert IT z ponad 20-letnim stażem. Specjalizuję się w pełnym cyklu życia technologii: od fizycznej naprawy elektroniki (BGA), przez wirtualizację i konteneryzację, aż po budowę inteligentnych agentów AI.
-      </font>
-    </td>
-  </tr>
-</table>
+# Robert Senenko — Bridging Silicon & Software
 
-<hr />
+> Hardware engineer of 20+ years moving into DevOps, Linux infrastructure and AI automation.
+> From board-level diagnostics (BGA/SMD, VRM, GPU repair) to containerized, cloud-native systems.
+> The same fault-isolation discipline — now applied from the silicon up to the cluster.
 
-<p align="left">
-  <font size="5" color="#2ecc71"><strong>> VIRTUALIZATION_&_DEPLOYMENT [INFRASTRUCTURE]</strong></font>
-</p>
+---
 
-<ul>
-  <li>🖥️ <strong>PROXMOX VE:</strong> Zarządzanie klastrami wirtualizacji, kontenery LXC, maszyny VM i zaawansowana administracja zasobami serwerowymi.</li>
-  <li>🚀 <strong>FOG SERVER:</strong> Masowe wdrażanie obrazów systemów operacyjnych (Cloning/PXE) oraz szybka replikacja stacji roboczych.</li>
-  <li>☁️ <strong>DEPLOYMENT:</strong> Automatyzacja wdrażania na <strong>Vercel</strong>, <strong>Hostinger</strong> oraz autorskie rozwiązania PaaS oparte na <strong>Coolify</strong>.</li>
-</ul>
+### `> INFRASTRUCTURE & DEPLOYMENT`
 
-<hr />
+- **Proxmox VE** — virtualization clusters, LXC containers, VM lifecycle, resource administration
+- **PXE / FOG** — mass OS imaging, rapid workstation replication
+- **Deployment** — Vercel, Hostinger, and self-hosted PaaS on Coolify (GitOps)
 
-<p align="left">
-  <font size="5" color="#2ecc71"><strong>> IT_DIAGNOSTICS [HARDWARE_&_SOFTWARE]</strong></font>
-</p>
+### `> DIAGNOSTICS [HARDWARE ↔ SOFTWARE]`
 
-<ul>
-  <li>🛠️ <strong>HARDWARE:</strong> Zaawansowana naprawa płyt głównych, lutowanie BGA/SMD, serwis sekcji zasilania VRM, modyfikacje BIOS.</li>
-  <li>💻 <strong>SOFTWARE:</strong> Naprawa systemowa, odzyskiwanie danych, konteneryzacja usług w <strong>Dockerze</strong> i administracja <strong>Linux</strong>.</li>
-</ul>
+- **Hardware** — motherboard repair, BGA/SMD soldering, VRM power sections, BIOS/EEPROM flashing
+- **Software** — system recovery, Docker service containerization, Linux administration & hardening
 
-<hr />
+### `> AI & AUTOMATION   // NEW`
 
-<p align="left">
-  <font size="5" color="#2ecc71"><strong>> INFRASTRUKTURA_AI [SIEĆ_NEURONOWA]</strong></font>
-</p>
+- **n8n agents** — autonomous, event-driven workflows (OpenAI / local models)
+- **RAG & local LLM** — private knowledge bases, self-hosted Ollama in isolated environments
+- **Content pipeline** — human-in-the-loop publishing system (Obsidian → agent → review → publish)
 
-<ul>
-  <li>🤖 <strong>AGENCI AI:</strong> Projektowanie autonomicznych przepływów w <strong>n8n</strong> (OpenAI / Modele lokalne).</li>
-  <li>🧠 <strong>RAG & LLM:</strong> Wdrażanie inteligentnych baz wiedzy i hostowanie modeli <strong>Ollama</strong> w izolowanych środowiskach.</li>
-</ul>
+---
 
-<hr />
+### `> CORE STACK`
 
-<p align="left">
-  <font size="5" color="#2ecc71"><strong>> CORE_STACK [TECHNOLOGIE]</strong></font>
-</p>
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=fff)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=fff)
+![Coolify](https://img.shields.io/badge/Coolify-080E2C?style=for-the-badge&logo=vercel&logoColor=68E580)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Proxmox-E57020?style=for-the-badge&logo=proxmox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/n8n-FF6C37?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <br />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white" />
-  <img src="https://img.shields.io/badge/Coolify-080E2C?style=for-the-badge&logo=vercel&logoColor=68E580" />
-</p>
+---
 
-<hr />
+### `> FEATURED PROJECTS`
 
-<p align="left">
-  <font size="5" color="#2ecc71"><strong>> AKTYWNE_PROJEKTY</strong></font>
-</p>
+**⚙️ Setup & Bootstrap**
+- [`ubuntu-bench-bootstrap`](https://github.com/RobiSolutions/ubuntu-bench-bootstrap) — bash scripts to provision a fresh Ubuntu dev/bench workstation (VS Code, dual-GitHub, KVM/QEMU, Docker)
 
-<table width="100%">
-  <tr>
-    <th align="left">Projekt</th>
-    <th align="left">Link</th>
-  </tr>
-  <tr>
-    <td><strong>Apfel-Retter</strong></td>
-    <td><a href="https://www.apfel-retter.de/"><font color="#2ecc71">apfel-retter.de</font></a></td>
-  </tr>
-  <tr>
-    <td><strong>Qvertech</strong></td>
-    <td><a href="https://qvertech.eu/"><font color="#2ecc71">qvertech.eu</font></a></td>
-  </tr>
-  <tr>
-    <td><strong>Terminal</strong></td>
-    <td><a href="https://robisolutionsit.com"><font color="#2ecc71">robisolutionsit.com</font></a></td>
-  </tr>
-</table>
+**🧰 Diagnostic Toolkits**
+- [`diag-tool`](https://github.com/RobiSolutions/diag-tool) — branded multi-boot USB toolkit (Ventoy, custom GRUB2 theme, 8-category ISO taxonomy)
+- [`win-diag-toolkit`](https://github.com/RobiSolutions/win-diag-toolkit) — modular PowerShell diagnostics (Diag / Provision / Specialist / Bench)
 
-<hr />
+**🤖 AI & Automation** &nbsp;`// flagship`
+- [`n8n-content-pipeline`](https://github.com/RobiSolutions/n8n-content-pipeline) — multi-agent content system with Discord approval loop
+- [`local-ai-kb`](https://github.com/RobiSolutions/local-ai-kb) — self-hosted RAG knowledge base (Ollama + AnythingLLM)
 
-<hr />
+**🔒 Infra & Security**
+- [`nextjs-security-headers`](https://github.com/RobiSolutions/nextjs-security-headers) — production CSP + security headers template (Observatory A grade)
+- [`homelab-proxmox`](https://github.com/RobiSolutions/homelab-proxmox) — homelab architecture: pfSense, Docker, monitoring, IaC notes
 
-<p align="center">
-  <font size="5" color="#2ecc71"><strong>> ESTABLISH_COMMUNICATION [ALL_SYSTEMS_GO]</strong></font>
-  <br><br>
-  <a href="https://robisolutionsit.com">
-    <img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=google-chrome&logoColor=2ecc71" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/TWOJ_PROFIL">
-    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@TWOJ_KANAL">
-    <img src="https://img.shields.io/badge/YOUTUBE-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <br>
-  <a href="https://t.me/TWOJ_USERNAME">
-    <img src="https://img.shields.io/badge/TELEGRAM-26A6E1?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-  <a href="https://wa.me/TWOJ_NUMER">
-    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
-  </a>
-  <a href="https://instagram.com/TWOJ_INSTAGRAM">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <br>
-  <a href="https://facebook.com/TWOJ_PROFIL">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-</p>
+---
 
-<p align="center">
-  <font size="2" color="#94a3b8"><em>// Global presence initialized. Waiting for handshake...</em></font>
-</p>
+### `> CONNECT`
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-111-00d9ff?style=for-the-badge&logo=google-chrome&logoColor=00d9ff)](https://robisolutionsit.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/robert-senenko-it/)
+[![dev.to](https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=fff)](https://dev.to/ROBISOLUTIONS_HANDLE)
+
+`contact:`
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E1?style=for-the-badge&logo=telegram&logoColor=fff)](https://t.me/RobiSolutionsIT)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/48502316393)
+
+```
+// presence initialized — waiting for handshake...
+```

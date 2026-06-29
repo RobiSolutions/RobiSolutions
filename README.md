@@ -102,6 +102,12 @@ root@robisolutionsit:~$ whoami
 - [`nextjs-security-headers`](https://github.com/RobiSolutions/nextjs-security-headers) — production CSP + security headers template (Observatory A grade)
 - [`homelab-proxmox`](https://github.com/RobiSolutions/homelab-proxmox) — homelab architecture: pfSense, Docker, monitoring, IaC notes
 
+**🌐 Web & Apps**
+- [`ohmwork`](https://github.com/RobiSolutions/ohmwork) — electronics learning app: flashcards & quizzes (Obsidian-driven content)
+- [`it-quiz`](https://github.com/RobiSolutions/it-quiz) — networking / security / DevOps quiz app (learning & exam modes)
+- [`retro-arcade`](https://github.com/RobiSolutions/retro-arcade) — browser games hub in bench/CRT aesthetic (vanilla JS, canvas)
+- [`bench-calculators`](https://github.com/RobiSolutions/bench-calculators) — electronics calculators (SMD resistor codes & more)
+
 ---
 
 ### `> LIVE`
